@@ -1,0 +1,3 @@
+/home/doannd/MAVSDK_Project_Test/stop_at_current_position/build/CMakeFiles/rebuild_cache.dir
+/home/doannd/MAVSDK_Project_Test/stop_at_current_position/build/CMakeFiles/stop_now.dir
+/home/doannd/MAVSDK_Project_Test/stop_at_current_position/build/CMakeFiles/edit_cache.dir

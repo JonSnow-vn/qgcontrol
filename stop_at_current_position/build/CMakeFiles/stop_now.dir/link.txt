@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/stop_now.dir/stop_now.cpp.o -o stop_now  /usr/lib/libmavsdk_telemetry.so.0.39.0 /usr/lib/libmavsdk_action.so.0.39.0 /usr/lib/libmavsdk.so.0.39.0 
